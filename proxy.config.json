@@ -1,0 +1,8 @@
+{
+  "/cep/*": {
+    "target": "https://api.postmon.com.br/v1/cep/91787860",
+    "secure": false,
+    "logLevel": "debug",
+    "changeOrigin": true
+  }
+}
